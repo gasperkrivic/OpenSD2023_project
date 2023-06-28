@@ -81,6 +81,7 @@ def roi_xy(point, roi_size):
     y_start = point[1] - H//2
     x = np.arange(x_start, x_start + W)
     y = np.arange(y_start, y_start + H)
+    print('this is only on the new_feature branch')
     return x, y
 
 
