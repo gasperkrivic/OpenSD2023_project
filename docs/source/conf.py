@@ -20,14 +20,14 @@ sys.path.insert(0, os.path.abspath('../..'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Image-EMA project'
-copyright = '2019, Janko Slavič, Domen Gorjup, Klemen Zaletelj'
+project = 'OpenSD2023 project'
+copyright = '2023, Gasper Krivic, Janko Slavič, Domen Gorjup, Klemen Zaletelj'
 author = 'Janko Slavič, Domen Gorjup, Klemen Zaletelj'
 
 # The short X.Y version
-version = ''
+version = '0.0.1'
 # The full version, including alpha/beta/rc tags
-release = '0.1.0'
+release = '0.0.1'
 
 
 # -- General configuration ---------------------------------------------------
@@ -133,7 +133,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Image-EMAproject.tex', 'Image-EMA project Documentation',
+    (master_doc, 'openSD2023_project.tex', 'OpenSD2023 project Documentation',
      'Janko Slavič, Domen Gorjup, Klemen Zaletelj', 'manual'),
 ]
 
